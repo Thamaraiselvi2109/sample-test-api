@@ -1,0 +1,46 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Introduction to Web Development",
+      "description": "This course provides an introduction to the fundamentals of web development, including HTML, CSS, and JavaScript.",
+      "instructor": "John Smith",
+      "price": "$99",
+      "duration": "10 weeks",
+      "level": "Beginner",
+      "requirements": [
+        "Basic understanding of computers and the internet",
+        "Access to a computer with an internet connection"
+      ],
+      "certificate": true
+    },
+    {
+      "id": 2,
+      "title": "Python Programming for Beginners",
+      "description": "Learn the basics of Python programming language from scratch.",
+      "instructor": "Jane Doe",
+      "price": "$79",
+      "duration": "8 weeks",
+      "level": "Beginner",
+      "requirements": [
+        "Basic understanding of computers and the internet",
+        "Access to a computer with an internet connection"
+      ],
+      "certificate": true
+    },
+    {
+      "id": 3,
+      "title": "Data Science with Python",
+      "description": "Explore data analysis, visualization, and machine learning with Python.",
+      "instructor": "Michael Johnson",
+      "price": "$129",
+      "duration": "12 weeks",
+      "level": "Intermediate",
+      "requirements": [
+        "Basic understanding of Python programming",
+        "Familiarity with basic statistics"
+      ],
+      "certificate": true
+    }
+  ]
+}
