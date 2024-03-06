@@ -9,7 +9,8 @@
         "duration": "10 weeks",
         "ratings": "4.40 (36846 Ratings)",
         "students":"208,139 students",
-        "banner": "https://img-b.udemycdn.com/course/480x270/822444_a6db.jpg"
+        "banner": "https://img-b.udemycdn.com/course/480x270/822444_a6db.jpg",
+        "mrp": "$110"
         
     },
     {
@@ -22,7 +23,8 @@
         "duration": "4 weeks",
         "ratings": "4.90 (75846 Ratings)",
         "students":"45,543 students",
-        "banner": "https://img-b.udemycdn.com/course/480x270/2045310_f8a2_6.jpg"
+        "banner": "https://img-b.udemycdn.com/course/480x270/2045310_f8a2_6.jpg",
+        "mrp": "$70"
         
     },
     {
@@ -35,7 +37,8 @@
         "duration": "9 weeks",
         "ratings": "4.20 (846 Ratings)",
         "students":"4,543 students",
-        "banner": "https://img-b.udemycdn.com/course/240x135/3826340_8408_3.jpg"
+        "banner": "https://img-b.udemycdn.com/course/240x135/3826340_8408_3.jpg",
+        "mrp": "$42"
         
     },
 
@@ -49,7 +52,8 @@
         "duration": "3 weeks",
         "ratings": "3.90 (8346 Ratings)",
         "students":"234,543 students",
-        "banner": "https://img-b.udemycdn.com/course/240x135/1094964_35b4_5.jpg"
+        "banner": "https://img-b.udemycdn.com/course/240x135/1094964_35b4_5.jpg",
+        "mrp": "$80"
         
     },
     {
@@ -62,7 +66,8 @@
         "duration": "2 weeks",
         "ratings": "4.350 (346 Ratings)",
         "students":"5443 students",
-        "banner": "https://img-b.udemycdn.com/course/480x270/4152006_54df_5.jpg"
+        "banner": "https://img-b.udemycdn.com/course/480x270/4152006_54df_5.jpg",
+        "mrp": "$99"
         
     },
     {
@@ -75,7 +80,8 @@
         "duration": "20 weeks",
         "ratings": "4.90 (3,460,475 Ratings)",
         "students":"95,735,443 students",
-        "banner": "https://img-b.udemycdn.com/course/480x270/5389306_7545_5.jpg"
+        "banner": "https://img-b.udemycdn.com/course/480x270/5389306_7545_5.jpg",
+        "mrp": "$999"
         
     },
     {
@@ -88,7 +94,8 @@
         "duration": "10 weeks",
         "ratings": "4.80 (460,475 Ratings)",
         "students":"735,443 students",
-        "banner": "https://img-b.udemycdn.com/course/480x270/4552020_43cc.jpg"
+        "banner": "https://img-b.udemycdn.com/course/480x270/4552020_43cc.jpg",
+        "mrp": "$239"
         
     },
     {
@@ -101,7 +108,8 @@
         "duration": "3 weeks",
         "ratings": "4.50 (6,045 Ratings)",
         "students":"5,443 students",
-        "banner": "https://img-b.udemycdn.com/course/480x270/3856080_6aff_7.jpg"
+        "banner": "https://img-b.udemycdn.com/course/480x270/3856080_6aff_7.jpg",
+        "mrp": "$29"
         
     },
     {
@@ -114,7 +122,8 @@
         "duration": "5 weeks",
         "ratings": "4.50 (6,045 Ratings)",
         "students":"5,443 students",
-        "banner": "https://img-b.udemycdn.com/course/480x270/2625826_b507_5.jpg"
+        "banner": "https://img-b.udemycdn.com/course/480x270/2625826_b507_5.jpg",
+        "mrp": "$99"
         
     },
     {
@@ -127,7 +136,8 @@
         "duration": "1 weeks",
         "ratings": "3.0 (6,045 Ratings)",
         "students":"5,443 students",
-        "banner": "https://img-b.udemycdn.com/course/480x270/3471238_8040.jpg"
+        "banner": "https://img-b.udemycdn.com/course/480x270/3471238_8040.jpg",
+        "mrp": "$29"
         
     }
 ]
