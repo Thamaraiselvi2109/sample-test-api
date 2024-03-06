@@ -55,7 +55,7 @@
     {
         "id":5,
         "title": "Python Django - Complete Course",
-        "description1": "Learn to build awesome websites with Python & Django!",
+        "description1": "Learn to build awesome websites with Python & Django! Django REST Framework and Docker using Test Driven Development (TDD)",
         "description2": "In today's fast-paced web development landscape, efficiently handling time-consuming and resource-intensive tasks is crucial for building high-performance applications. Django Celery, a powerful asynchronous task-processing library, provides the perfect solution to address this challenge. This comprehensive course, Django Celery Mastery: Python Asynchronous Task Processing, is designed to empower you with the knowledge and skills necessary to harness the full potential of Django Celery and elevate your Python web applications to new heights of scalability and responsiveness.",
         "instructor": "Very Academy",
         "price": "$17",
