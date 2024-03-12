@@ -15,6 +15,148 @@
   "id":1,
   "name": "Jasmine"
 }
-]
+],
+  "foods": [
+    {
+      "id": 1,
+      "name": "Margherita Pizza",
+      "description": "Classic Italian pizza topped with tomato sauce, mozzarella cheese, and fresh basil leaves.",
+      "calories": 250,
+      "image_url": "https://example.com/margherita_pizza.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Alfredo Pasta",
+      "description": "Creamy pasta dish made with fettuccine, grilled chicken, and Alfredo sauce.",
+      "calories": 450,
+      "image_url": "https://example.com/chicken_alfredo_pasta.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Caesar Salad",
+      "description": "Classic Caesar salad made with romaine lettuce, croutons, Parmesan cheese, and Caesar dressing.",
+      "calories": 200,
+      "image_url": "https://example.com/caesar_salad.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Hamburger",
+      "description": "Juicy beef patty served on a bun with lettuce, tomato, onion, and pickles.",
+      "calories": 350,
+      "image_url": "https://example.com/hamburger.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sushi Roll",
+      "description": "Assorted sushi rolls including California roll, spicy tuna roll, and salmon avocado roll.",
+      "calories": 300,
+      "image_url": "https://example.com/sushi_roll.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Chicken Tikka Masala",
+      "description": "Indian curry dish made with grilled chicken, tomatoes, onions, and creamy sauce.",
+      "calories": 400,
+      "image_url": "https://example.com/chicken_tikka_masala.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Caprese Salad",
+      "description": "Fresh salad made with tomatoes, mozzarella cheese, basil, olive oil, and balsamic glaze.",
+      "calories": 180,
+      "image_url": "https://example.com/caprese_salad.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Pad Thai",
+      "description": "Thai stir-fried noodles with tofu, shrimp, peanuts, and vegetables.",
+      "calories": 350,
+      "image_url": "https://example.com/pad_thai.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Margherita Panini",
+      "description": "Grilled panini sandwich filled with tomato, mozzarella cheese, and fresh basil leaves.",
+      "calories": 320,
+      "image_url": "https://example.com/margherita_panini.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Mango Sticky Rice",
+      "description": "Traditional Thai dessert made with sticky rice, fresh mango slices, and coconut milk.",
+      "calories": 250,
+      "image_url": "https://example.com/mango_sticky_rice.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Pho",
+      "description": "Vietnamese noodle soup with beef or chicken, rice noodles, herbs, and spices.",
+      "calories": 300,
+      "image_url": "https://example.com/pho.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Margherita Flatbread",
+      "description": "Thin-crust flatbread topped with tomato sauce, mozzarella cheese, and fresh basil leaves.",
+      "calories": 280,
+      "image_url": "https://example.com/margherita_flatbread.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Chicken Quesadilla",
+      "description": "Mexican dish made with tortillas, grilled chicken, cheese, and served with salsa and sour cream.",
+      "calories": 320,
+      "image_url": "https://example.com/chicken_quesadilla.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Fruit Smoothie Bowl",
+      "description": "Healthy breakfast bowl made with blended fruit smoothie topped with granola, fruits, and nuts.",
+      "calories": 200,
+      "image_url": "https://example.com/fruit_smoothie_bowl.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Margherita Calzone",
+      "description": "Folded pizza dough filled with tomato sauce, mozzarella cheese, and fresh basil leaves.",
+      "calories": 340,
+      "image_url": "https://example.com/margherita_calzone.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Pancakes with Maple Syrup",
+      "description": "Fluffy pancakes served with butter and drizzled with maple syrup.",
+      "calories": 400,
+      "image_url": "https://example.com/pancakes.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Garden Salad",
+      "description": "Fresh salad made with mixed greens, tomatoes, cucumber, carrots, and choice of dressing.",
+      "calories": 150,
+      "image_url": "https://example.com/garden_salad.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Chicken Teriyaki Bowl",
+      "description": "Japanese rice bowl topped with grilled chicken, teriyaki sauce, and steamed vegetables.",
+      "calories": 380,
+      "image_url": "https://example.com/chicken_teriyaki_bowl.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Avocado Toast",
+      "description": "Sliced avocado on toasted bread, drizzled with olive oil and sprinkled with salt and pepper.",
+      "calories": 230,
+      "image_url": "https://example.com/avocado_toast.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Chocolate Chip Cookies",
+      "description": "Classic homemade cookies made with chocolate chips, butter, flour, and sugar.",
+      "calories": 180,
+      "image_url": "https://example.com/chocolate_chip_cookies.jpg"
+    }
+  ]
 
 }
