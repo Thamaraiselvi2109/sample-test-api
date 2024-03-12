@@ -22,84 +22,84 @@
       "name": "Margherita Pizza",
       "description": "Classic Italian pizza topped with tomato sauce, mozzarella cheese, and fresh basil leaves.",
       "calories": 250,
-      "image_url": "https://example.com/margherita_pizza.jpg"
+      "image_url": "https://www.foodandwine.com/thmb/7A7CYdDEKJUUhNcLSrlZ5N8wbHo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mozzarella-pizza-margherita-FT-RECIPE0621-11fa41ceb1a5465d9036a23da87dd3d4.jpg"
     },
     {
       "id": 2,
       "name": "Chicken Alfredo Pasta",
       "description": "Creamy pasta dish made with fettuccine, grilled chicken, and Alfredo sauce.",
       "calories": 450,
-      "image_url": "https://example.com/chicken_alfredo_pasta.jpg"
+      "image_url": "https://mmhn.com/wp-content/uploads/2023/07/Chicken-Alfredo-BLOG-035-scaled-1920x1080.jpg"
     },
     {
       "id": 3,
       "name": "Caesar Salad",
       "description": "Classic Caesar salad made with romaine lettuce, croutons, Parmesan cheese, and Caesar dressing.",
       "calories": 200,
-      "image_url": "https://example.com/caesar_salad.jpg"
+      "image_url": "https://www.easycheesyvegetarian.com/wp-content/uploads/2016/09/Ultimate-vegetarian-Caesar-salad-6.jpg"
     },
     {
       "id": 4,
       "name": "Hamburger",
       "description": "Juicy beef patty served on a bun with lettuce, tomato, onion, and pickles.",
       "calories": 350,
-      "image_url": "https://example.com/hamburger.jpg"
+      "image_url": "https://www.cookwithnabeela.com/wp-content/uploads/2024/02/Hamburger.webp"
     },
     {
       "id": 5,
       "name": "Sushi Roll",
       "description": "Assorted sushi rolls including California roll, spicy tuna roll, and salmon avocado roll.",
       "calories": 300,
-      "image_url": "https://example.com/sushi_roll.jpg"
+      "image_url": "https://www.mango.org/wp-content/uploads/2022/03/Chef_Cook_Mango_Sushi_Roll_Crave_05.jpg"
     },
     {
       "id": 6,
       "name": "Chicken Tikka Masala",
       "description": "Indian curry dish made with grilled chicken, tomatoes, onions, and creamy sauce.",
       "calories": 400,
-      "image_url": "https://example.com/chicken_tikka_masala.jpg"
+      "image_url": "https://www.closetcooking.com/wp-content/uploads/2019/11/Chicken-Tikka-Masala-1200-8412.jpg"
     },
     {
       "id": 7,
       "name": "Caprese Salad",
       "description": "Fresh salad made with tomatoes, mozzarella cheese, basil, olive oil, and balsamic glaze.",
       "calories": 180,
-      "image_url": "https://example.com/caprese_salad.jpg"
+      "image_url": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2019/07/Caprese-Salad-main-1.jpg"
     },
     {
       "id": 8,
       "name": "Pad Thai",
       "description": "Thai stir-fried noodles with tofu, shrimp, peanuts, and vegetables.",
       "calories": 350,
-      "image_url": "https://example.com/pad_thai.jpg"
+      "image_url": "https://www.recipetineats.com/wp-content/uploads/2020/01/Chicken-Pad-Thai_9-SQ.jpg"
     },
     {
       "id": 9,
       "name": "Margherita Panini",
       "description": "Grilled panini sandwich filled with tomato, mozzarella cheese, and fresh basil leaves.",
       "calories": 320,
-      "image_url": "https://example.com/margherita_panini.jpg"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfzi1z2UKZ5hYfE6u32SepV3OAE_ZFyFMspg&usqp=CAU"
     },
     {
       "id": 10,
       "name": "Mango Sticky Rice",
       "description": "Traditional Thai dessert made with sticky rice, fresh mango slices, and coconut milk.",
       "calories": 250,
-      "image_url": "https://example.com/mango_sticky_rice.jpg"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGImwMmeG9l1igxXdjEeUnPwUP2utrFyu-dw&usqp=CAU"
     },
     {
       "id": 11,
       "name": "Pho",
       "description": "Vietnamese noodle soup with beef or chicken, rice noodles, herbs, and spices.",
       "calories": 300,
-      "image_url": "https://example.com/pho.jpg"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMQ53S5tnvByU1txHAj_rtuquR9jjMHiB3Lw&usqp=CAU"
     },
     {
       "id": 12,
       "name": "Margherita Flatbread",
       "description": "Thin-crust flatbread topped with tomato sauce, mozzarella cheese, and fresh basil leaves.",
       "calories": 280,
-      "image_url": "https://example.com/margherita_flatbread.jpg"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbeo0lpFVcYhiJM-Mq0gvZI-F8rnVHAkk17Q&usqp=CAU"
     },
     {
       "id": 13,
