@@ -106,56 +106,56 @@
       "name": "Chicken Quesadilla",
       "description": "Mexican dish made with tortillas, grilled chicken, cheese, and served with salsa and sour cream.",
       "calories": 320,
-      "image_url": "https://example.com/chicken_quesadilla.jpg"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlhRyvbmtNK-eFkYjeFG-zGgC3BHEvDV0uAA&usqp=CAU"
     },
     {
       "id": 14,
       "name": "Fruit Smoothie Bowl",
       "description": "Healthy breakfast bowl made with blended fruit smoothie topped with granola, fruits, and nuts.",
       "calories": 200,
-      "image_url": "https://example.com/fruit_smoothie_bowl.jpg"
+      "image_url": "https://www.modernhoney.com/wp-content/uploads/2023/06/Pitaya-Bowl-2-scaled.jpg"
     },
     {
       "id": 15,
       "name": "Margherita Calzone",
       "description": "Folded pizza dough filled with tomato sauce, mozzarella cheese, and fresh basil leaves.",
       "calories": 340,
-      "image_url": "https://example.com/margherita_calzone.jpg"
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfsfHVo2C9VLpWtAUQEiQ12U6MwCtMNQXrHw&usqp=CAU"
     },
     {
       "id": 16,
       "name": "Pancakes with Maple Syrup",
       "description": "Fluffy pancakes served with butter and drizzled with maple syrup.",
       "calories": 400,
-      "image_url": "https://example.com/pancakes.jpg"
+      "image_url": "https://www.aimeemars.com/wp-content/uploads/2023/03/maple-syrup-pancakes.webp"
     },
     {
       "id": 17,
       "name": "Garden Salad",
       "description": "Fresh salad made with mixed greens, tomatoes, cucumber, carrots, and choice of dressing.",
       "calories": 150,
-      "image_url": "https://example.com/garden_salad.jpg"
+      "image_url": "https://img.sndimg.com/food/image/upload/f_auto,c_thumb,q_55,w_860,ar_3:2/v1/img/recipes/36/30/77/5vDotS11QaaoTMgFGfO8_0S9A9698.jpg"
     },
     {
       "id": 18,
       "name": "Chicken Teriyaki Bowl",
       "description": "Japanese rice bowl topped with grilled chicken, teriyaki sauce, and steamed vegetables.",
       "calories": 380,
-      "image_url": "https://example.com/chicken_teriyaki_bowl.jpg"
+      "image_url": "https://simplehomeedit.com/wp-content/uploads/2021/04/Chicken-Teriyaki-Bowl-Recipe.webp"
     },
     {
       "id": 19,
       "name": "Avocado Toast",
       "description": "Sliced avocado on toasted bread, drizzled with olive oil and sprinkled with salt and pepper.",
       "calories": 230,
-      "image_url": "https://example.com/avocado_toast.jpg"
+      "image_url": "https://www.cubesnjuliennes.com/wp-content/uploads/2021/01/Avocado-Toast.jpg"
     },
     {
       "id": 20,
       "name": "Chocolate Chip Cookies",
       "description": "Classic homemade cookies made with chocolate chips, butter, flour, and sugar.",
       "calories": 180,
-      "image_url": "https://example.com/chocolate_chip_cookies.jpg"
+      "image_url": "https://www.honeywhatscooking.com/wp-content/uploads/2021/12/321BAA04-4B1D-4214-B4E7-3B4FD166A916-1-1042x1536.jpg"
     }
   ]
 
